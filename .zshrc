@@ -1,7 +1,7 @@
 # Path to your oh-my-zsh installation.
 export ZSH=/Users/jasabalete/.oh-my-zsh
 
-ZSH_THEME="robbyrussell"
+ZSH_THEME="geoffgarside"
 
 # Would you like to use another custom folder than $ZSH/custom?
 # ZSH_CUSTOM=/path/to/new-custom-folder
