@@ -16,4 +16,5 @@ $ ~ ls -a
 
 - Oh My ZSH! (http://ohmyz.sh/)
     - install --> curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
+ 
     
